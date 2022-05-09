@@ -322,8 +322,8 @@ For any other questions, feel free to contact us at [help.microblink.com](http:/
 
 ## Important links
 
-- [Doxygen documentation](https://blinkid.github.io/blinkid-c-sdk/index.html)
+- [Doxygen documentation](https://photopay.github.io/photopay-c-sdk)
 - [Release notes](Release%20notes.md)
 - [Demo apps](sample-apps)
 - [Microblink help and support](https://help.microblink.com)
-    - or open a [new issue on GitHub](https://github.com/BlinkID/blinkid-c-sdk/issues)
+    - or open a [new issue on GitHub](https://github.com/PhotoPay/photopay-c-sdk/issues)
