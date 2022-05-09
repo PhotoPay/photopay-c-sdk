@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "DemoCS": {
+      "commandName": "Project",
+      "commandLineArgs": "..\\..\\..\\..\\..\\..\\..\\..\\src\\demo\\pdf417.jpg",
+      "nativeDebugging": true
+    }
+  }
+}
